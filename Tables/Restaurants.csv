@@ -1,0 +1,81 @@
+restaurant_id,name,cuisine_type,location,owner_name,average_delivery_time,contact_number,rating,total_orders,is_active
+063bd9b3-d7b5-4102-8414-fa63cfb7873a,Pai-Bhardwaj Restaurant,Chinese,Phagwara,Isaiah Sahni,20,4471587286,4.5,20,False
+7b487edc-8f4c-45ce-b52d-bf3e31db3d33,"Mani, Varkey and Saha Restaurant",Mexican,Bellary,Azad Pandey,33,+916415912889,2.3,35,False
+68690841-7ca2-4676-b7aa-3d5cb2e4d03b,Balan PLC Restaurant,Mexican,Jammu,Banjeet Kalla,15,7130046437,2.2,92,True
+461c7d20-68b8-446a-b12d-3ae480f0d74f,"Chatterjee, Sastry and Ray Restaurant",Indian,New Delhi,Faqid Sur,36,00896211151,4.1,71,False
+9dd120b6-c0f5-452e-ad12-5881a0f7a0f7,Dutt LLC Restaurant,Asian,Patiala,Mahika Kaul,49,8942476090,3.3,19,False
+4ed04a42-fe2c-4815-ae37-9ffd93d1dece,"Chanda, Kota and Kade Restaurant",Chinese,Thanjavur,Yagnesh Joshi,16,4215352306,3.3,63,True
+cf1983cc-d088-42e6-844d-991ccda79bd8,Parikh PLC Restaurant,Indian,Kolkata,Daksha Gade,16,4295462305,3.1,40,False
+de3955b7-df2b-48fb-a17d-83c213d7e786,Krishnan-Varty Restaurant,Chinese,Mysore,Chavvi Rastogi,64,02631646642,3.7,54,True
+47508b83-3cab-48c5-bf4a-3f932de55738,Sanghvi Group Restaurant,Indo-Chinese,Kurnool,Harrison Bhagat,35,+915473869633,4.9,78,True
+7f2c96e1-b390-42ff-892c-f7c1356853b9,"Anand, Menon and Sani Restaurant",Italian,Sambalpur,Lohit Deshpande,53,03760974032,4.4,82,True
+313b3515-09e5-4b9b-8f78-f22ca2b248a4,"Nagy, Char and Shankar Restaurant",Italian,Bhopal,Aashi Palla,57,+918458398007,2.9,19,True
+5a8f2397-157f-4f7f-9c47-40f22bcacdc6,"Dass, Sheth and Mann Restaurant",Asian,Panchkula,Eshana Prabhakar,16,00763205874,2.8,23,False
+c6a41a8e-715b-4c83-a2b6-23b9eb62d69f,Sathe Group Restaurant,Chinese,Berhampur,Harita Banik,30,7523247715,1.0,39,False
+701d767a-2f14-4de7-804e-6f5eee670bad,Dasgupta-Raghavan Restaurant,Indian,Haldia,Manthan Varty,48,09577612812,1.9,76,True
+133e4fa6-cfc6-4f35-9fc1-ebb1a709f6de,"Sathe, Sankaran and Sachdeva Restaurant",Indian,Gopalpur,Aarush Ramakrishnan,48,02479781534,4.6,95,False
+658428ef-e8d3-4eeb-9289-2b8227da7916,Chakraborty-Aggarwal Restaurant,Chinese,Bally,Kamala Sengupta,23,+919669540130,1.0,95,True
+9d52dcaa-9172-49aa-b716-94446c619584,"Wagle, Kothari and Saxena Restaurant",Italian,Salem,Ria Tandon,45,3817404897,2.9,63,False
+51eac267-e971-46e1-9c38-849c0fbb2a44,"Mitra, Bhalla and Khosla Restaurant",Indo-Chinese,Agartala,Wridesh Venkataraman,59,8522887079,3.4,18,True
+65c6098e-0110-4346-922d-755452553aa9,Jain-Jaggi Restaurant,Mexican,Vadodara,Yash Parsa,28,+917038599978,3.2,65,False
+2b2c5e35-a92b-4b44-b596-7b938365b64b,Sharma-Bora Restaurant,Indo-Chinese,Ambarnath,Manthan Dhar,19,+918461824624,3.2,28,False
+effbebd3-5275-4ce4-a382-6de7673cc06b,"Mand, Sibal and Gupta Restaurant",Asian,Ballia,Vidhi Om,45,8127496963,4.6,31,True
+ee767a81-b20a-4dbd-8ec5-dafb442fbfb0,Nadkarni-Sharaf Restaurant,Chinese,Silchar,Wakeeta Maharaj,61,06810703964,2.5,55,True
+f4ca6309-d385-4924-88d5-de58d1c1e35b,"Chana, Borra and Chada Restaurant",Asian,Alappuzha,Harsh Sodhi,25,00679625768,2.7,1,False
+faa0ff8b-a8eb-4134-a9cb-51527ad2de1c,Goswami-Memon Restaurant,Indian,Sikar,Ekantika Thaman,58,04009723216,1.8,91,True
+c170a64d-5f29-4650-b884-53e0830676e8,Borah-Tata Restaurant,Italian,Amaravati,Yashawini Raja,22,+915814067512,1.9,93,False
+95e66353-d9cf-4ffb-ac2c-2c9b4ab15990,Chowdhury-Chana Restaurant,Indian,Guntakal,Falguni Sarkar,51,0911644356,1.2,88,True
+a71f8399-58f6-4489-bd9a-e4ab0648fd0b,Sathe-Hayre Restaurant,Mexican,Uluberia,Warda Sarraf,19,8521538613,1.4,66,True
+7a96ba93-0cf6-47bd-afa0-5cf4e4c9ac7a,Nayar-Chokshi Restaurant,Asian,Haridwar,Yashvi Mohan,37,0139790021,3.1,61,False
+05272eb6-b9d0-490d-9ce3-a0f76257a0e8,"Barman, Sangha and Karan Restaurant",Indo-Chinese,Haridwar,Wyatt Mistry,35,09789897789,4.5,98,True
+7d34b3a7-2f56-43dc-9bd3-21542dc3f332,"D’Alia, Saraf and Puri Restaurant",Italian,Naihati,Chaitanya Ramanathan,48,+914085161047,1.7,95,False
+5c19b8e1-ac9d-402e-9410-75ebe5d4158b,Gaba Ltd Restaurant,Chinese,Ozhukarai,Rayaan Bhakta,49,02868656297,4.0,12,False
+9ec3dcaf-14de-4b3d-9bc1-99300db3fb88,Bhattacharyya-Rout Restaurant,Mexican,Mirzapur,Bimala Pradhan,17,00506380170,2.7,64,True
+c3835887-aa17-4e88-9c79-3fe5253f6b1a,Rana-Parekh Restaurant,Indo-Chinese,Bhatpara,Gautam Venkatesh,62,06504380861,4.1,41,True
+b709de1e-9519-4f95-ae25-0ad852306501,Deshmukh-Jaggi Restaurant,Italian,Gopalpur,Kavya Anand,28,01031236090,4.4,78,False
+f54f6da3-78f1-4f2d-abd5-f3ae7510f743,Butala and Sons Restaurant,Mexican,Tirupati,Frado Zachariah,21,+917479157948,2.4,4,True
+c626d057-52ba-43b8-b792-b137a207933a,Sahota PLC Restaurant,Asian,Rampur,Yoshita Borah,50,03060281871,4.7,77,True
+1b7ac74b-67b8-4e66-be66-1bcc4e6f09ab,"Bora, Dugal and Dara Restaurant",Italian,Korba,Umang Kaul,33,1727102419,2.1,24,False
+39bafaa0-5dac-4c5e-8def-78cff2a64e1a,"Sahota, Bhasin and Sami Restaurant",Italian,Guna,Pallavi Kumer,39,6073949394,2.7,38,False
+ce769bab-269f-4f20-b653-b51eead5caed,Mann-Johal Restaurant,Indian,Naihati,Devansh Choudhry,64,+915900427928,4.3,33,True
+6330f4df-f7d0-47fd-ae9c-a8918e691d75,Koshy Group Restaurant,Mexican,Kumbakonam,William Dara,31,09613188767,2.2,93,True
+5c4fb810-f481-41a1-b1a5-b7b1b21fbf77,"Sem, Panchal and Bose Restaurant",Mexican,Etawah,Bhavna Tandon,55,+919766552645,2.6,41,True
+3e56851a-6112-4d0f-bbfc-a498aadf5752,Khanna-Madan Restaurant,Chinese,Mehsana,Bakhshi Mand,17,+915605670219,4.3,84,True
+b6cd37ba-309d-4576-86e1-239d45829226,Bala Group Restaurant,Italian,Dibrugarh,Timothy Khare,59,7251976342,4.6,62,False
+ef595b0f-5503-4bc7-b11f-40776eec28e4,Maharaj-Shan Restaurant,Mexican,Yamunanagar,Meera Mannan,57,07788374436,3.9,29,False
+ba03317d-02b9-4c38-ae4b-c589320d2632,"Naik, Venkataraman and Ramachandran Restaurant",Chinese,Ratlam,Nisha Prashad,32,8797357887,1.8,68,True
+686055bc-4b07-4c5d-850c-6f1958b0c526,Sha Inc Restaurant,Mexican,Nagpur,Maya Balay,31,4813578085,2.7,100,True
+c0ed033f-ab46-40c1-87dd-28cc3456293b,"Keer, Deshmukh and Kohli Restaurant",Asian,Ahmednagar,Yutika Baria,28,7923536095,4.4,35,False
+6bdadff3-cf89-47c4-8528-a1399fff0652,Walla-Dora Restaurant,Indian,Panipat,Azad Bhandari,17,7527679321,4.6,90,False
+77441961-e9b8-494b-b363-f73957eec962,"Dua, Kurian and Gole Restaurant",Asian,North Dumdum,Hiral Chaudhari,16,+912176758475,1.2,36,True
+fb63fb98-9695-4ac2-90b6-e08229ebb4b0,Sura Group Restaurant,Asian,Phusro,Abeer Sundaram,28,6688187783,3.9,55,True
+dce1bbc6-125c-4e90-b431-94cd5dcd8aa0,Jani LLC Restaurant,Indo-Chinese,Tiruppur,Ojasvi Mane,43,+918351068965,2.0,47,True
+f96c1fbd-76e2-4bcb-808b-4046faf816b8,"Chaudhari, Oommen and Thaker Restaurant",Indian,Miryalaguda,Dhruv Jaggi,40,06879696827,3.4,95,True
+a0589c63-376e-403c-b53c-f1caf1c43f5a,Oak-Korpal Restaurant,Italian,Raurkela Industrial Township,Siddharth Date,25,0827807455,1.6,40,False
+964770bc-0892-4f2b-84e9-b05bf45d0559,"Nagar, Nigam and Goswami Restaurant",Italian,Sagar,Zaitra Kunda,30,3501125650,2.4,37,False
+9449f0a1-5dae-43f1-bda9-ebdb93d9ca08,"Thakur, Dhawan and Toor Restaurant",Mexican,Chandigarh,Brinda Dasgupta,48,+919752922309,2.0,37,False
+438ad436-417f-42eb-868d-57ffb775a131,"Badami, Kala and Narasimhan Restaurant",Indo-Chinese,Jalgaon,Finn Sehgal,50,+910394314166,3.2,32,False
+f14d23bb-aa90-4d82-99d2-216f7459a48e,Deo-Ramaswamy Restaurant,Italian,Udupi,Jacob Sami,26,08598783331,4.4,92,True
+d7beff33-c81e-41e1-8fdb-48038f95f49d,Lad Inc Restaurant,Indian,Karaikudi,Yuvraj Desai,49,4670567463,1.4,61,True
+347b981d-52a5-4595-a45e-2c81e2ead96d,Varghese-Gaba Restaurant,Mexican,Mumbai,Darsh Mutti,25,+917065311234,1.7,36,False
+2689b703-2981-4d99-b436-6c1a0505f102,"Pillay, Baral and Khalsa Restaurant",Mexican,Bally,William Khatri,20,4177557874,3.0,69,False
+0a8bc6e6-ceca-4256-81f5-c75a8c84faca,Dani PLC Restaurant,Mexican,Vadodara,Vansha Das,20,+916646917113,4.8,94,True
+8e0fdcc8-8d61-4cc9-a5e6-02f680897ccb,"Chanda, Nagarajan and Mitter Restaurant",Asian,Eluru,Madhavi Bera,46,+914573556909,3.8,62,False
+38351e52-5503-4a75-93f4-9680bcfc9924,Wagle-Din Restaurant,Mexican,Sambalpur,Daksh Gandhi,62,+917790311850,1.9,40,True
+17b5864d-dd20-4c37-84b6-625f58340f34,Modi and Sons Restaurant,Italian,Khora ,Libni Sundaram,34,+913359060602,3.4,73,True
+93427b8e-7e42-4aff-a803-fb4deec83371,Chana Ltd Restaurant,Italian,Etawah,Qadim Karpe,37,5736072582,4.5,33,True
+3ddddfec-1c7b-4fa8-8f71-4b490c9d7694,Manne-Lad Restaurant,Mexican,Siliguri,Isaiah Wagle,48,08107436350,3.9,97,True
+639d0c2a-48bc-4386-929e-6f64a17fb68e,Minhas and Sons Restaurant,Italian,Hajipur,Chasmum Joshi,54,06678059725,1.7,45,True
+02036516-1502-4b0d-8199-39e34e683999,"Brahmbhatt, Rattan and Karpe Restaurant",Italian,Alwar,Hemang Mangal,54,+910061100807,1.1,77,True
+b56995d4-f40e-4ede-80ab-7ce5334ebb00,Issac-Gade Restaurant,Indo-Chinese,Hosur,Gunbir Chander,65,07291705115,2.2,2,True
+d325ba7c-e27e-4356-b586-e6bcc0a84f47,Sant Ltd Restaurant,Asian,Madanapalle,Advika Sur,33,01471174586,3.6,69,True
+63e084de-d654-4875-98b4-95a6e0e72aaf,"Ramachandran, Patla and Balakrishnan Restaurant",Italian,Arrah,Tanveer Bir,27,01258359544,4.2,83,True
+230d9ce6-677c-454f-83c4-1dd56a823c73,Mukherjee and Sons Restaurant,Indo-Chinese,Malegaon,Rajeshri Hayer,55,+912659836089,1.7,49,True
+6624a9cf-19ca-416d-a842-68f2d851d615,"Bal, Majumdar and Deol Restaurant",Indian,Hajipur,Turvi Nagarajan,45,+912693775430,2.5,45,False
+0c402681-52a6-4b12-813d-12920041fac6,"Prabhu, Modi and Bhavsar Restaurant",Chinese,Medininagar,Qabil Bhalla,19,05298652075,2.2,85,True
+aa4e4308-b182-4e60-bbc1-a60d79c3c03a,Gole Group Restaurant,Italian,Nanded,Rishi Shroff,33,03270613216,4.2,64,True
+ac023a5f-7f9e-4cd5-a217-9faaee991ef1,Hayer-Buch Restaurant,Indo-Chinese,Chandrapur,Xavier Khosla,65,5527425264,4.9,89,True
+4865100e-73e7-453a-b2d8-78fc4e0c0d53,Rajagopalan-Apte Restaurant,Asian,Jorhat,Udant Bhandari,46,8638582997,1.1,34,True
+85d98653-f529-4f0b-972c-b0907dc74c45,"Deep, Singh and Bora Restaurant",Mexican,Chandrapur,Tanish Ratta,15,1463240699,1.4,74,True
+d96d3651-5c18-414d-8d5f-60da69e197fe,Misra PLC Restaurant,Chinese,Ahmednagar,Chanchal Mistry,56,+918637583802,2.2,13,False
+a6f68d7e-7d0b-40d3-9663-4c52ce28e7a3,"Johal, Mody and Wadhwa Restaurant",Italian,Phagwara,Chandani Muni,64,05510227445,4.7,9,True
